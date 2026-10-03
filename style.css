@@ -1,0 +1,43 @@
+h1 {
+  color:#ffffff;
+  font-size: 3rem;
+  margin-bottom: 4px;
+  text-align: center;
+}
+
+.myheader {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: #526ea4;
+  margin-bottom: 24px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 1200px;
+  /* stops lines running the full width of a big monitor */
+  margin: 0 auto;
+  /* 0 space top and bottom, "auto" left and right = centred on the page */
+  padding: 40px 24px;
+  /* breathing room INSIDE the box. */
+  line-height: 1.7;
+  color: #ffffff;
+  background-color: #174427;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 1.5rem;
+  margin-top: 36px;
+  border-bottom: 1px solid #6e5f46;
+  padding-bottom: 6px;
+}
+
+footer {
+  margin-top: 48px;
+  padding-top: 12px;
+  border-top: 1px solid #6e5f46;
+  font-size: 0.85rem;
+  color: #a8a8a9;
+}
